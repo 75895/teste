@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762994029817,
+      "tag": "0000_smooth_firedrake",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762994098903,
+      "tag": "0001_easy_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762997579777,
+      "tag": "0002_aberrant_fenris",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762998129593,
+      "tag": "0003_calm_sir_ram",
+      "breakpoints": true
+    }
+  ]
+}
